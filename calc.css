@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #afadad;
+    font-family: 'Times New Roman', Times, serif; 
+    color: black;  
+}
+
+.main{
+    background-color: black;
+    max-width: 30rem;
+    min-height: 2rem;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 1rem;
+}   
+
+
+.bg-color {
+    background-color: #cec6c6;
+    width: 50px;
+    height: 50px;
+    padding: 3rem;
+    border-radius: 50%;  
+    display: inline-block;
+    font-size: 2.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+#bg-colour {
+    background-color: orange;
+    color: #fff;
+}
+
+#bg{
+    background-color: rgb(43, 41, 41);
+    color: #fff;
+}
